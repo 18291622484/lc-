@@ -1,0 +1,4 @@
+﻿  Question17.04.DisappearingNumbers.c
+E:\git\lc-\Question17.04.DisappearingNumbers\Question17.04.DisappearingNumbers.c(8,14): warning C4047: “return”:“int”与“void *”的间接级别不同
+E:\git\lc-\Question17.04.DisappearingNumbers\Question17.04.DisappearingNumbers.c(16): warning C4715: “missingNumber1”: 不是所有的控件路径都返回值
+  Question17.04.DisappearingNumbers.vcxproj -> E:\git\lc-\Question17.04.DisappearingNumbers\Debug\Question17.04.DisappearingNumbers.exe

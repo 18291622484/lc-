@@ -1,0 +1,2 @@
+E:\git\lc-\Question17.04.DisappearingNumbers\Debug\Question17.04.DisappearingNumbers.exe
+E:\git\lc-\Question17.04.DisappearingNumbers\Debug\Question17.04.DisappearingNumbers.pdb
