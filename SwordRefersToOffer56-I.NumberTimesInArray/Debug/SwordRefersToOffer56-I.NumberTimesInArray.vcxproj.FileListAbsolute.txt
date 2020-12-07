@@ -1,0 +1,2 @@
+E:\git\lc-\SwordRefersToOffer56-I.NumberTimesInArray\Debug\SwordRefersToOffer56-I.NumberTimesInArray.exe
+E:\git\lc-\SwordRefersToOffer56-I.NumberTimesInArray\Debug\SwordRefersToOffer56-I.NumberTimesInArray.pdb
