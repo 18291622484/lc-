@@ -1,0 +1,2 @@
+E:\git\lc-\26.DeletesDuplicatesInTheSortedArray\Debug\26.DeletesDuplicatesInTheSortedArray.exe
+E:\git\lc-\26.DeletesDuplicatesInTheSortedArray\Debug\26.DeletesDuplicatesInTheSortedArray.pdb
