@@ -1,0 +1,2 @@
+E:\git\lc-\27.RemoveElements\Debug\27.RemoveElements.exe
+E:\git\lc-\27.RemoveElements\Debug\27.RemoveElements.pdb
