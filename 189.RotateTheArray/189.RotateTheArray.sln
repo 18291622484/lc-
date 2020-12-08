@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "189.RotateTheArray", "189.RotateTheArray.vcxproj", "{CF47558F-16D5-47A6-A417-908667349AEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF47558F-16D5-47A6-A417-908667349AEC}.Debug|x64.ActiveCfg = Debug|x64
+		{CF47558F-16D5-47A6-A417-908667349AEC}.Debug|x64.Build.0 = Debug|x64
+		{CF47558F-16D5-47A6-A417-908667349AEC}.Debug|x86.ActiveCfg = Debug|Win32
+		{CF47558F-16D5-47A6-A417-908667349AEC}.Debug|x86.Build.0 = Debug|Win32
+		{CF47558F-16D5-47A6-A417-908667349AEC}.Release|x64.ActiveCfg = Release|x64
+		{CF47558F-16D5-47A6-A417-908667349AEC}.Release|x64.Build.0 = Release|x64
+		{CF47558F-16D5-47A6-A417-908667349AEC}.Release|x86.ActiveCfg = Release|Win32
+		{CF47558F-16D5-47A6-A417-908667349AEC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31072081-92A0-4DB9-8B5A-EF42D92B231F}
+	EndGlobalSection
+EndGlobal
