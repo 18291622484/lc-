@@ -1,4 +1,25 @@
+////递归的函数
+//struct ListNode* func(struct ListNode* node) {
+//    if (node->next == NULL) {
+//        return node;
+//    }
+//    struct ListNode* cur = node;
+//    node = node->next;
+//    struct ListNode* ret = func(node);
+//    node->next = cur;
+//    return ret;
+//}
+
 int main() {
+    ////递归的方法
+    //if (head == NULL || head->next == NULL) {
+    //    return head;
+    //}
+    //struct ListNode* ret = func(head);
+    //head->next = NULL;
+    //return ret;
+
+
     //struct ListNode* reverseList(struct ListNode* head) {
     //    //头插法
     //    if (head == NULL || head->next == NULL) {
@@ -14,6 +35,8 @@ int main() {
     //        node = next;
     //    }
     //    return list.next;
+
+
     //    //三指针法
     //    if (head == NULL || head->next == NULL) {
     //        return head;
