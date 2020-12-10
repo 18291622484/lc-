@@ -16,12 +16,17 @@ void merge(int* nums1, int nums1Size, int m, int* nums2, int nums2Size, int n) {
             m--;
         }
     }
+    while (n >= 0) {
+        nums1[count] = nums2[n];
+        count--;
+        n--;
+    }
 }
 
 int main() {
-    int num1[] = { 1,2,3,5,6,0,0,0 };
-    int num2[] = { 4,6,9 };
-    merge(num1, sizeof(num1) / sizeof(num1[0]), 5, num2, sizeof(num2) / sizeof(num2[0]), 3);
+    int num1[] = { 1,2,3,6,0,0,0,0,0 };
+    int num2[] = { 3,4,6,7,9 };
+    merge(num1, sizeof(num1) / sizeof(num1[0]), 4, num2, sizeof(num2) / sizeof(num2[0]), 5);
     for (int i = 0; i < sizeof(num1) / sizeof(num1[0]); i++) {
         printf("%d\n", num1[i]);
     }
