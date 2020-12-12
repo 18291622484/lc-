@@ -2,7 +2,10 @@
 #include<stdlib.h>
 
 int* singleNumbers(int* nums, int numsSize, int* returnSize) {
-	int* singlearr = (int*)calloc(2, sizeof(int)); if (singlearr == NULL)return NULL;
+	int* singlearr = (int*)calloc(2, sizeof(int)); 
+	if (singlearr == NULL)
+		return NULL;
+	*returnSize = 2;
 	int sum = 0, count = 1;
 	for (int i = 0; i < numsSize; i++) {
 		sum ^= nums[i];
