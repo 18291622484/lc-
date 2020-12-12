@@ -25,10 +25,22 @@ int missingNumber2(int* nums, int numsSize) {
 	sum1 += numsSize;
 	return sum1 - sum;
 }
+
+//Òì»ò·¨
+int missingNumber3(int* nums, int numsSize) {
+	int ret = 0;
+	for (int i = 0; i < numsSize; i++) {
+		ret ^= i;
+		ret ^= nums[i];
+	}
+	ret ^= numsSize;
+	return ret;
+}
  
 int main() {
 	int arr[] = { 8,6,4,2,3,5,9,0,1 };
 	printf("%d\n", missingNumber1(arr, sizeof(arr) / sizeof(arr[0])));
 	printf("%d\n", missingNumber2(arr, sizeof(arr) / sizeof(arr[0])));
+	printf("%d\n", missingNumber3(arr, sizeof(arr) / sizeof(arr[0])));
 	return 0;
 }
