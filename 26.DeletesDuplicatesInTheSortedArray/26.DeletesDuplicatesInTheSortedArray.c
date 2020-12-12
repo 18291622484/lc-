@@ -2,6 +2,9 @@
 #include<stdlib.h>
 
 int removeDuplicates(int* nums, int numsSize) {
+    if (nums == NULL) {
+        return nums;
+    }
     int idx = 1;
     int flag = nums[0];
     int count = 1;
