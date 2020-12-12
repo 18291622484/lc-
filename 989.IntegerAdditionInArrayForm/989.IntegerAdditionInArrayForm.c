@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+#include<math.h>
 
 int* addToArrayForm(int* A, int ASize, int K, int* returnSize) {
     if (K == 0) {
@@ -11,7 +12,7 @@ int* addToArrayForm(int* A, int ASize, int K, int* returnSize) {
     int* ret = (int*)calloc(count, sizeof(int));
     if (ret == NULL)
         return NULL;
-    while (K > 0) {
+    while (ASize >= 0) {
         if (--ASize >= 0)
             K = A[ASize] + K;
         ret[--count] = K % 10;
@@ -27,8 +28,8 @@ int* addToArrayForm(int* A, int ASize, int K, int* returnSize) {
 }
 
 int main() {
-    int num[] = { 8,6,8 };
-    int k = 689;
+    int num[] = { 1,2,0,0 };
+    int k = 9456;
     int size = 0;
     int* ret = addToArrayForm(num, sizeof(num) / sizeof(num[0]), k, &size);
     for (int i = 0; i < size; i++) {
