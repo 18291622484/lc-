@@ -1,0 +1,2 @@
+E:\git\lc-\Question02.04.SplitTheList\Debug\Question02.04.SplitTheList.exe
+E:\git\lc-\Question02.04.SplitTheList\Debug\Question02.04.SplitTheList.pdb
