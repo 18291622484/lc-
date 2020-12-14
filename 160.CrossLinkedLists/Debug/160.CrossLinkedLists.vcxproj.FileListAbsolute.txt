@@ -1,0 +1,2 @@
+E:\git\lc-\160.CrossLinkedLists\Debug\160.CrossLinkedLists.exe
+E:\git\lc-\160.CrossLinkedLists\Debug\160.CrossLinkedLists.pdb
