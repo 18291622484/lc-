@@ -8,7 +8,7 @@ int main() {
         while (fast != NULL && fast->next != NULL) {
             fast = fast->next->next;
             slow = slow->next;
-            if (slow >= fast && fast != NULL) {
+            if (slow == fast) {
                 return true;
             }
         }
