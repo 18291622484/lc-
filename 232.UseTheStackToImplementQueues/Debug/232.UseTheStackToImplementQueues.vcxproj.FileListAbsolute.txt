@@ -1,0 +1,2 @@
+E:\git\lc-\232.UseTheStackToImplementQueues\Debug\232.UseTheStackToImplementQueues.exe
+E:\git\lc-\232.UseTheStackToImplementQueues\Debug\232.UseTheStackToImplementQueues.pdb
