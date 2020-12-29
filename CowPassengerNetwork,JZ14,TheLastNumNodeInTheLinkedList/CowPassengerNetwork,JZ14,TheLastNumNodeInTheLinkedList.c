@@ -26,10 +26,12 @@ int main() {
     //    }
     //    struct ListNode* fast = pListHead;
     //    struct ListNode* slow = pListHead;
-    //    int count = 0, num = 0;
+    //    int count = 0;
+    //    int num = 0;
     //    while (fast) {
     //        fast = fast->next;
-    //        count++, num++;
+    //        count++;
+    //        num++;
     //        if (count == k + 1) {
     //            count--;
     //            slow = slow->next;
