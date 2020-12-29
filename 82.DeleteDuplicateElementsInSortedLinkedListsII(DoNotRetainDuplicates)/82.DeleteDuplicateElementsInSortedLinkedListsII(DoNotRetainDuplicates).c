@@ -1,5 +1,5 @@
 int main() {
-    ////µİ¹éµÄº¯Êı
+
     //struct ListNode* function(struct ListNode* head, int* flag) {
     //    if (head == NULL) {
     //        return NULL;
@@ -39,17 +39,16 @@ int main() {
     //    struct ListNode* flag = &list;
     //    int count = 0;
     //    while (end) {
-    //        if (start->val == end->val) {
+    //        if (start->val == end->val || count == 1) {
+    //            if (start->val == end->val) {
+    //                count = 1;
+    //            }
+    //            else {
+    //                count = 0;
+    //            }
     //            free(start);
     //            flag->next = start = end;
     //            end = end->next;
-    //            count++;
-    //        }
-    //        else if (count) {
-    //            free(start);
-    //            flag->next = start = end;
-    //            end = end->next;
-    //            count = 0;
     //        }
     //        else {
     //            flag = start;
