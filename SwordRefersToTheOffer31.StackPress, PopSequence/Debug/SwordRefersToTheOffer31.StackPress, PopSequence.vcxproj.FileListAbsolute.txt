@@ -1,0 +1,2 @@
+E:\git\lc-\SwordRefersToTheOffer31.StackPress, PopSequence\Debug\SwordRefersToTheOffer31.StackPress, PopSequence.exe
+E:\git\lc-\SwordRefersToTheOffer31.StackPress, PopSequence\Debug\SwordRefersToTheOffer31.StackPress, PopSequence.pdb
