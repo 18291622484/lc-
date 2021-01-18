@@ -1,0 +1,2 @@
+E:\git\lc-\965.Single-valuedBinaryTrees\Debug\965.Single-valuedBinaryTrees.exe
+E:\git\lc-\965.Single-valuedBinaryTrees\Debug\965.Single-valuedBinaryTrees.pdb
