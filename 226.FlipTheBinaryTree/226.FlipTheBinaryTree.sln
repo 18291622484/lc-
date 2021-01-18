@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "226.FlipTheBinaryTree", "226.FlipTheBinaryTree.vcxproj", "{8FEBA8D2-1826-4063-BB37-4FA4CCB93CDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FEBA8D2-1826-4063-BB37-4FA4CCB93CDB}.Debug|x64.ActiveCfg = Debug|x64
+		{8FEBA8D2-1826-4063-BB37-4FA4CCB93CDB}.Debug|x64.Build.0 = Debug|x64
+		{8FEBA8D2-1826-4063-BB37-4FA4CCB93CDB}.Debug|x86.ActiveCfg = Debug|Win32
+		{8FEBA8D2-1826-4063-BB37-4FA4CCB93CDB}.Debug|x86.Build.0 = Debug|Win32
+		{8FEBA8D2-1826-4063-BB37-4FA4CCB93CDB}.Release|x64.ActiveCfg = Release|x64
+		{8FEBA8D2-1826-4063-BB37-4FA4CCB93CDB}.Release|x64.Build.0 = Release|x64
+		{8FEBA8D2-1826-4063-BB37-4FA4CCB93CDB}.Release|x86.ActiveCfg = Release|Win32
+		{8FEBA8D2-1826-4063-BB37-4FA4CCB93CDB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E61E982-ADA5-4C34-B0D2-F25D29FB308B}
+	EndGlobalSection
+EndGlobal
