@@ -1,0 +1,2 @@
+E:\git\lc-\189.RotateTheArray2\Debug\189.RotateTheArray2.exe
+E:\git\lc-\189.RotateTheArray2\Debug\189.RotateTheArray2.pdb
