@@ -1,0 +1,2 @@
+E:\git\lc-\58.TheLengthOfTheLastWord\Debug\58.TheLengthOfTheLastWord.exe
+E:\git\lc-\58.TheLengthOfTheLastWord\Debug\58.TheLengthOfTheLastWord.pdb
