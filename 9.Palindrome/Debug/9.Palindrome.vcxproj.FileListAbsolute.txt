@@ -1,0 +1,2 @@
+E:\git\lc-\9.Palindrome\Debug\9.Palindrome.exe
+E:\git\lc-\9.Palindrome\Debug\9.Palindrome.pdb
