@@ -1,0 +1,2 @@
+E:\git\lc-\977.SquareOfAnOrderedArray\Debug\977.SquareOfAnOrderedArray.exe
+E:\git\lc-\977.SquareOfAnOrderedArray\Debug\977.SquareOfAnOrderedArray.pdb
