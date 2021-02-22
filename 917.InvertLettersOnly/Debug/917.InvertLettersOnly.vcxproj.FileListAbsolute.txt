@@ -1,0 +1,2 @@
+E:\git\lc-\917.InvertLettersOnly\Debug\917.InvertLettersOnly.exe
+E:\git\lc-\917.InvertLettersOnly\Debug\917.InvertLettersOnly.pdb
