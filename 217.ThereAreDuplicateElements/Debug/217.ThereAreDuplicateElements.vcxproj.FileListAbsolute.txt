@@ -1,0 +1,2 @@
+E:\git\lc-\217.ThereAreDuplicateElements\Debug\217.ThereAreDuplicateElements.exe
+E:\git\lc-\217.ThereAreDuplicateElements\Debug\217.ThereAreDuplicateElements.pdb
