@@ -1,0 +1,2 @@
+E:\git\lc-\724.FindTheCentralIndexOfTheArray\Debug\724.FindTheCentralIndexOfTheArray.exe
+E:\git\lc-\724.FindTheCentralIndexOfTheArray\Debug\724.FindTheCentralIndexOfTheArray.pdb
