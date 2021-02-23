@@ -1,0 +1,2 @@
+E:\git\lc-\66.PlusOne\Debug\66.PlusOne.exe
+E:\git\lc-\66.PlusOne\Debug\66.PlusOne.pdb
