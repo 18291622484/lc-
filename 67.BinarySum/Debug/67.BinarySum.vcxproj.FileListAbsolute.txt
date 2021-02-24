@@ -1,0 +1,2 @@
+E:\git\lc-\67.BinarySum\Debug\67.BinarySum.exe
+E:\git\lc-\67.BinarySum\Debug\67.BinarySum.pdb
