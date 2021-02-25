@@ -1,0 +1,2 @@
+E:\git\lc-\8.StringConversionInteger(ATOI)\Debug\8.StringConversionInteger(ATOI).exe
+E:\git\lc-\8.StringConversionInteger(ATOI)\Debug\8.StringConversionInteger(ATOI).pdb
