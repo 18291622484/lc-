@@ -1,0 +1,2 @@
+E:\git\lc-\34.FindTheFirstAndLastPositionOfElementInSortedArray\Debug\34.FindTheFirstAndLastPositionOfElementInSortedArray.exe
+E:\git\lc-\34.FindTheFirstAndLastPositionOfElementInSortedArray\Debug\34.FindTheFirstAndLastPositionOfElementInSortedArray.pdb
