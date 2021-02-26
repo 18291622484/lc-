@@ -1,0 +1,2 @@
+E:\git\lc-\443.CompressStrings\Debug\443.CompressStrings.exe
+E:\git\lc-\443.CompressStrings\Debug\443.CompressStrings.pdb
