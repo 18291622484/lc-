@@ -1,0 +1,2 @@
+E:\git\lc-\125.VerifyPalindromeStrings\Debug\125.VerifyPalindromeStrings.exe
+E:\git\lc-\125.VerifyPalindromeStrings\Debug\125.VerifyPalindromeStrings.pdb
