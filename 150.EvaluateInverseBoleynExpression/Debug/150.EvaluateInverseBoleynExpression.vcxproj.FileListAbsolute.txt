@@ -1,0 +1,2 @@
+E:\git\lc-\150.EvaluateInverseBoleynExpression\Debug\150.EvaluateInverseBoleynExpression.exe
+E:\git\lc-\150.EvaluateInverseBoleynExpression\Debug\150.EvaluateInverseBoleynExpression.pdb
