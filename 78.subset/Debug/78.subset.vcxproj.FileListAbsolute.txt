@@ -1,0 +1,2 @@
+E:\git\lc-\78.subset\Debug\78.subset.exe
+E:\git\lc-\78.subset\Debug\78.subset.pdb
