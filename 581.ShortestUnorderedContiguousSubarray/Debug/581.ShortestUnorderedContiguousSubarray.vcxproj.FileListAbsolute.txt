@@ -1,0 +1,2 @@
+E:\git\lc-\581.ShortestUnorderedContiguousSubarray\Debug\581.ShortestUnorderedContiguousSubarray.exe
+E:\git\lc-\581.ShortestUnorderedContiguousSubarray\Debug\581.ShortestUnorderedContiguousSubarray.pdb
